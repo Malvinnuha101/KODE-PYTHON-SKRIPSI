@@ -8,7 +8,7 @@ Repository ini berisi kode Python lengkap dan hasil analisis untuk skripsi sarja
 - **Email**: malvinnuha@gmail.com  
 - **Institusi**: Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Gadjah Mada
 - **Program Studi**: Fisika
-- **Jenis**: Skripsi Sarjana
+- **Jenis**: Skripsi Sarjana S1
 - **Tahun**: 2025
 
 ## 🎯 Tujuan Penelitian
@@ -101,7 +101,7 @@ analyzer.run_analysis()
 ### Kontroversi Galaksi
 - **Bima Sakti**: ΛCDM lebih unggul
 - **M31**: MOND lebih unggul
-- Menunjukkan kemungkinan dependensi lingkungan atau karakteristik intrinsik galaksi
+- Menunjukkan kemungkinan ketergantungan lingkungan atau karakteristik intrinsik galaksi
 
 ## 📈 Visualisasi
 
@@ -130,5 +130,3 @@ Analisis menyediakan berbagai plot komprehensif:
 Proyek ini ditujukan untuk tujuan akademik. Silakan menghubungi penulis untuk penggunaan lebih lanjut.
 
 ---
-
-**Catatan**: Analisis ini memberikan wawasan berharga dalam debat kosmologi modern antara materi gelap (ΛCDM) dan modifikasi gravitasi (MOND).
