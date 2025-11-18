@@ -114,16 +114,9 @@ Analisis menyediakan berbagai plot komprehensif:
 ## 🎓 Implikasi Ilmiah
 
 1. **Tidak ada model universal** yang cocok untuk semua galaksi
-2. **MOND** menunjukkan performa baik untuk M31, mendukung modifikasi gravitasi
-3. **ΛCDM** tetap kompetitif, terutama untuk Bima Sakti
+2. **ΛCDM** menunjukkan performa baik untuk Bima Sakti
+3. **MOND** tetap kompetitif, terutama untuk M31, mendukung modifikasi gravitasi
 4. Perlunya **analisis lebih banyak galaksi** untuk kesimpulan definitif
-
-## 🔮 Pengembangan Selanjutnya
-
-- Penambahan data galaksi lain
-- Implementasi fungsi interpolasi MOND alternatif
-- Analisis sensitivitas parameter
-- Integrasi dengan data kinematik bintang dan gas
 
 ## 📄 Lisensi
 
