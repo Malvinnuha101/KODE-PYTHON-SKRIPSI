@@ -44,7 +44,7 @@ Kelas utama yang mengimplementasikan seluruh analisis kurva rotasi galaksi.
    - **Halo**: Materi gelap (NFW/Core untuk ΛCDM)
 
 4. **Metode Analisis**
-   - Fitting kurva dengan `scipy.optimize.curve_fit`
+   - Fitting parameter dengan `scipy.optimize.curve_fit` dengan metode Trust Region Reflective (`trf`)
    - Perbandingan statistik (χ², AIC, BIC, R²)
    - Visualisasi komprehensif dengan matplotlib
    - Uji signifikansi statistik
